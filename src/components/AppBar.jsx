@@ -11,7 +11,7 @@ export default function ButtonAppBar() {
         <Button variant="contained">SUBSCRIBE</Button>
       </Box>
       <Box>
-        <Typography  variant="h6" component={'h2'}><Link className="link" to={'/'}>MyBlog</Link></Typography>
+        <Typography  variant="h6" component={'h2'}><Link className="link" to={'/'}>My Blog</Link></Typography>
       </Box>
       <Box sx={{display: 'flex',justifyContent: 'space-between', alignItems: 'center', gap: '4px'}}>
         <Box>
