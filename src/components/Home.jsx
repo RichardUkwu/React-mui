@@ -43,7 +43,7 @@ function Home() {
             component="img"
             alt="Post"
             height="350"
-            image="\Post.jpg"
+            image="/Post.jpg"
           />
         </Card>
         <Box
@@ -58,7 +58,7 @@ function Home() {
                 component="img"
                 alt="Post"
                 height="200"
-                image="\Post.jpg"
+                image="/Post.jpg"
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
@@ -82,7 +82,7 @@ function Home() {
                 component="img"
                 alt="Post"
                 height="200"
-                image="\Post.jpg"
+                image="/Post.jpg"
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
